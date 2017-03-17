@@ -1,16 +1,13 @@
 # RobiPoc
-%----------------------------------------
 %
 % This projects contains modules for iRobot, uArm and Stereo Vision control
 % 
 %
-%----------------------------------------
 % How to start:
 % 1. CR_MainGUI	- run 
 %
 % Usage:
 % 1. 
-%----------------------------------------
 %----------------------------------------
 % Ver       Date        Who     What
 %----------------------------------------
